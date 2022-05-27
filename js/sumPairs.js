@@ -1,4 +1,4 @@
-exports.sumPairs = function sumPairs(arr, num) {
+exports.sumPairs = function(arr, num) {
 
     let pair = []
     let pairs = []
